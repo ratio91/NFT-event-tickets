@@ -4,6 +4,7 @@ prototype of an event ticket system based on NFTs (ERC-721)
 ## prerequisites
 
 * node.js needs to be installed on your machine
+* run `npm install`
 * a valid Ethereum account is necessary, which must be funded with enough ETH to pay the gas costs
 
 ## deploy the contracts
@@ -13,4 +14,4 @@ and run `truffle deploy`
 
 ## GUI 
 
-TBD
+coming soon ...
